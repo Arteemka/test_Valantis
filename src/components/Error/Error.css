@@ -1,0 +1,16 @@
+.error_image{
+    display:block;
+    margin:0 auto;
+    width:25%;
+}
+
+.error_block{
+    width:100%;
+    position:absolute;
+}
+.error_message{
+    position: absolute;
+    left: 45%;
+    color:#B32821;
+    font-size:large;
+}
